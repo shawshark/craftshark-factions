@@ -1,0 +1,24 @@
+name: CraftsharkFactions
+main: me.shawshark.craftsharkfactions.main
+version: 1.0
+
+commands:
+  random:
+  warp:
+  heal:
+  spawn:
+  setspawn:
+  motd:
+  home:
+  sethome:
+  test:
+  feed:
+  stats:
+  vote:
+  donate:
+  setwarp:
+  bal:
+  balance:
+  restartserver:
+  alltohub:
+  setworldspawn:
