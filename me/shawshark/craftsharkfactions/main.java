@@ -138,7 +138,7 @@ public class main extends JavaPlugin implements Listener {
 	}
 
  
-  
+   /* - To do, Move rest of commands to there own class. */
 	@Override
 	public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
 		final Player p = (Player)sender;
